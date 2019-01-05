@@ -1,0 +1,29 @@
+baseurl = "https://Alekssasho.github.io/"
+languageCode = "en-us"
+title = "Alekssasho's Blog"
+theme = "hello-friend"
+copyright = ""
+paginate = 5
+publishdir = "../public"
+
+[params]
+  subtitle = ""
+  # "light" or "dark"
+  defaultTheme = "dark"
+
+[params.logo]
+  logoText = "Rendering Pixels"
+#   or
+#
+#   path = "/img/your-example-logo.svg"
+#   alt = "Your example logo alt text"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about"
+  [[menu.main]]
+    identifier = "resume"
+    name = "Resume"
+    url = "/resume"

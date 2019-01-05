@@ -1,0 +1,10 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/Alekssasho/Alekssasho.github.io.git
+	branch = master
+[submodule "blog/themes/hello-friend"]
+	path = blog/themes/hello-friend
+	url = https://github.com/panr/hugo-theme-hello-friend.git
+[submodule "resume/themes/orbit"]
+	path = resume/themes/orbit
+	url = https://github.com/aerohub/hugo-orbit-theme
