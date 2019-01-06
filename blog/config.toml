@@ -10,6 +10,10 @@ publishdir = "../public"
   subtitle = ""
   # "light" or "dark"
   defaultTheme = "dark"
+  twitterlink = "https://twitter.com/Alekssasho"
+  githublink = "https://github.com/Alekssasho"
+  linkedinlink = "https://www.linkedin.com/in/aleksandar-angelov-b1a99251/"
+  maillink = "aleksandar.angelovv@gmail.com"
 
 [params.logo]
   logoText = "Rendering Pixels"
