@@ -20,10 +20,17 @@ publishdir = "../public"
 
 [menu]
   [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about"
+    weight = 3
   [[menu.main]]
     identifier = "resume"
     name = "Resume"
     url = "/resume"
+    weight = 2

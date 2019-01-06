@@ -123,7 +123,7 @@ disable404 = true
         position = "Senoir Graphics Developer"
         dates = "Oct 2018 - Present"
         company = "Coherent Labs, Sofia"
-        details = "Mentoring junior developers. R&D in 3D User Interfaces. Responsible for in-house debugging tools."
+        details = "Mentoring junior developers. R&D in 3D User Interfaces. Responsible for in-house debugging tools. Working directly with clients to resolve performance and usability issues."
 
         [[params.jobs.list]]
         position = "Graphics Developer"
