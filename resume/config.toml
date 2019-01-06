@@ -91,7 +91,7 @@ disable404 = true
 
     # Languages section
     [params.language]
-        enable = true
+        enable = false
         title = "Languages"
 
         [[params.language.list]]
@@ -129,7 +129,7 @@ disable404 = true
         position = "Graphics Developer"
         dates = "Feb 2015 - Sep 2018"
         company = "Coherent Labs, Sofia"
-        details = "Developing Core 2D Rendering in-house library used in all products of the company. Researching & developing different 2D rendering algorithm for text, vector graphics, CSS3 effects like shadows and filter. Ported WebCore to use our rendering library. Implemented and improved various graphics api backends."
+        details = "Developing Core 2D Rendering in-house library used in all products of the company. Researching & developing different 2D rendering algorithm for text, vector graphics, CSS3 effects like shadows and filters. Ported WebCore to use our rendering library. Implemented and improved various graphics API backends."
 
         [[params.jobs.list]]
         position = "Junior iOS Developer"
@@ -141,7 +141,7 @@ disable404 = true
         position = "Intern"
         dates = "Jul 2012 - Aug 2012"
         company = "Haemimont Games, Sofia"
-        details = "Writing simple 2D game with Lua."
+        details = "Writing a simple 2D game with Lua."
 
     # Projects section
     [params.projects]
@@ -153,12 +153,12 @@ disable404 = true
         [[params.projects.list]]
         title = "Graphics Prototypes"
         url = "https://github.com/Alekssasho/GraphicsPrototypes"
-        tagline = "Repo with 3D Graphics experiments and prototypes using Falcor. Masters Thesis work for a Real Time  Diffuse Global Illumination algorithm based on Pica Pica's algorithm for GI."
+        tagline = "Repo with 3D Graphics experiments and prototypes using Falcor. Masters Thesis work for a Real-Time  Diffuse Global Illumination algorithm based on Pica Pica's algorithm for GI."
 
         [[params.projects.list]]
         title = "Co-Teacher/Author"
         url = "https://github.com/nikoladimitroff/Game-Engine-Architecture"
-        tagline = "Co-Teacher of a course about Game Engine Architecture in Sofia University. All slides are public. Theory about how a game engine is structured with examples from Unreal Engine 4 codebase."
+        tagline = "Co-Teacher of a course about Game Engine Architecture in Sofia University. All slides are public. The theory is about how a game engine is structured with examples from Unreal Engine 4 codebase."
 
         [[params.projects.list]]
         title = "Zmey"
@@ -195,6 +195,14 @@ disable404 = true
         [[params.skills.list]]
         skill = "Git"
         level = "90%"
+
+        [[params.skills.list]]
+        skill = "Visual Studio"
+        level = "90%"
+
+        [[params.skills.list]]
+        skill = "PS4/XB1/Switch Programming"
+        level = "75%"
 
         [[params.skills.list]]
         skill = "Python"

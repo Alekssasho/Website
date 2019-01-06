@@ -6,9 +6,9 @@ description = "Introduction Post"
 cover = "sofia-vitosha.jpg"
 +++
 
-Hello, I' m Aleksandar, you can read more about me in the [About](/about) page.
+Hello, I am Aleksandar, you can read more about me in the [About](/about) page.
 
-I'm starting a blog to share technical experiance and knowledge.
+I am starting a blog to share technical experiance and knowledge.
 I am mostly interested in game development, engine programming, computer graphics, so probably most of the posts will be about that.
 
 ### Details about the implementation of the blog.
