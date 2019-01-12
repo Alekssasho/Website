@@ -4,7 +4,7 @@ baseurl = "https://Alekssasho.github.io/resume/"
 languageCode = "en-us"
 title = "Aleksandar Angelov Resume"
 theme = "orbit"
-googleAnalytics = "UA-XXXXXXX-Y"
+googleAnalytics = "UA-132338357-1"
 publishdir = "../public/resume"
 
 # Do not build files for websites. Need them? Set to false

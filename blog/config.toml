@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Alekssasho's Blog"
 theme = "hello-friend"
 copyright = ""
+googleAnalytics = "UA-132338357-1"
 paginate = 5
 publishdir = "../public"
 
