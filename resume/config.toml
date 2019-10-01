@@ -120,13 +120,13 @@ disable404 = true
         title = "Experiences"
 
         [[params.jobs.list]]
-        position = "Sofware Developer"
+        position = "Software Developer"
         dates = "Apr 2019 - Present"
         company = "Chaos Group, Sofia"
         details = "Developing in house GPU renderer - V-Ray GPU."
 
         [[params.jobs.list]]
-        position = "Senoir Graphics Developer"
+        position = "Senior Graphics Developer"
         dates = "Oct 2018 - Mar 2019"
         company = "Coherent Labs, Sofia"
         details = "Mentoring junior developers. R&D in 3D User Interfaces. Responsible for in-house debugging tools. Working directly with clients to resolve performance and usability issues."
