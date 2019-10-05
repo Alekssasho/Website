@@ -9,10 +9,10 @@ cover = "about.jpg"
 
 My name is Aleksandar, software developer coming from Sofia, Bulgaria.
 
-I live and breathe games - when I am not developing and programming I play them.
-My interested in game development are mainly in engine architecture and graphics.
+I have professional interest in game development and render engines(both real time and offline). For game development
+most interesting topics are core engine architecture and graphics renderers.
 
-Currently I work in [Coherent Labs](https://coherent-labs.com), where I am Senior Graphics Developer. 
+Currently I work in [Chaos Group](https://chaosgroup.com), where I am Senior GPU Developer working on V-Ray GPU render engine.
 
 Also I am finishing my Master degree in Computer Graphics in [Sofia University](https://www.fmi.uni-sofia.bg/en). My thesis work
 is for Global Illumination algorithms for games.
