@@ -32,7 +32,7 @@ disable404 = true
     # Profile section
     [params.profile]
         name = "Aleksandar Angelov"
-        tagline = "Software Developer"
+        tagline = "Software Developer / Team Lead"
         avatar = "profile@150.jpg"
 
     # Contact section
@@ -77,7 +77,7 @@ disable404 = true
         [[params.education.list]]
         degree = "MSc in Computer Graphics"
         college = "University of Sofia - Faculty of Mathematics and Informatics"
-        dates = "2017 - Present"
+        dates = "2017 - 2019"
 
         [[params.education.list]]
         degree = "BSc in Computer Science"
@@ -120,10 +120,16 @@ disable404 = true
         title = "Experiences"
 
         [[params.jobs.list]]
-        position = "Software Developer"
-        dates = "Apr 2019 - Present"
+        position = "Team Lead"
+        dates = "Oct 2020 - Present"
         company = "Chaos Group, Sofia"
-        details = "Developing in house GPU renderer - V-Ray GPU."
+        details = "Team Lead of V-Ray GPU team working on in-house GPU production render engine. Team management, product management."
+
+        [[params.jobs.list]]
+        position = "Senior Software Developer"
+        dates = "Apr 2019 - Oct 2020"
+        company = "Chaos Group, Sofia"
+        details = "Developing in house GPU renderer - V-Ray GPU. Implement features like Matte/Shadow Catchers, Displaced 2d geometry in V-Ray GPU. Implemented RTX features inside V-Ray GPU."
 
         [[params.jobs.list]]
         position = "Senior Graphics Developer"
@@ -167,14 +173,14 @@ disable404 = true
         tagline = "Co-Teacher of a course about Game Engine Architecture in Sofia University. All slides are public. The theory is about how a game engine is structured with examples from Unreal Engine 4 codebase."
 
         [[params.projects.list]]
-        title = "Zmey"
-        url = "https://github.com/nikoladimitroff/Zmey"
-        tagline = "Game engine from scratch in very early stages. Responsible for rendering, asset pipeline, some core systems like profiling, task."
+        title = "Tempo Engine"
+        url = "https://github.com/Alekssasho/TempoEngine/"
+        tagline = "Game engine from scratch in very early stages. Runtime is C++, tooling and asset pipeline in Rust."
 
         [[params.projects.list]]
-        title = "Pogo Painter"
-        url = "https://github.com/Alekssasho/PogoPainter"
-        tagline = "Simple mobile game with multiplayer for a Hackaton in University. Written with Cocos2d-x."
+        title = "Warlocks"
+        url = "https://gitlab.com/Alekssasho/warlocks"
+        tagline = "UE4 multiplayer brawler arena game. Responsible for Gameplay abilities and animation/graphics support."
 
     # Skills section
     [params.skills]
@@ -188,7 +194,7 @@ disable404 = true
                 
         [[params.skills.list]]
         skill = "GPU Programming"
-        level = "80%"
+        level = "90%"
 
         [[params.skills.list]]
         skill = "Graphics APIs"
@@ -200,19 +206,19 @@ disable404 = true
 
         [[params.skills.list]]
         skill = "Git"
-        level = "90%"
+        level = "80%"
 
         [[params.skills.list]]
-        skill = "Visual Studio"
-        level = "90%"
+        skill = "CUDA"
+        level = "80%"
 
         [[params.skills.list]]
         skill = "PS4/XB1/Switch Programming"
         level = "75%"
 
         [[params.skills.list]]
-        skill = "Python"
-        level = "50%"
+        skill = "Rust"
+        level = "60%"
 
     # Footer section
 

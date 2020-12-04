@@ -12,7 +12,7 @@ My name is Aleksandar, software developer coming from Sofia, Bulgaria.
 I have professional interest in game development and render engines(both real time and offline). For game development
 most interesting topics are core engine architecture and graphics renderers.
 
-Currently I work in [Chaos Group](https://chaosgroup.com), where I am Senior GPU Developer working on V-Ray GPU render engine.
+Currently I work in [Chaos Group](https://chaosgroup.com), where I am Team Lead for V-Ray GPU.
 
 Also I am finishing my Master degree in Computer Graphics in [Sofia University](https://www.fmi.uni-sofia.bg/en). My thesis work
 is for Global Illumination algorithms for games.
