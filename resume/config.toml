@@ -163,24 +163,29 @@ disable404 = true
         intro = ""
 
         [[params.projects.list]]
-        title = "Graphics Prototypes"
-        url = "https://github.com/Alekssasho/GraphicsPrototypes"
-        tagline = "Repo with 3D Graphics experiments and prototypes using Falcor. Masters Thesis work for a Real-Time  Diffuse Global Illumination algorithm based on Pica Pica's algorithm for GI."
-
-        [[params.projects.list]]
-        title = "Co-Teacher/Author"
-        url = "https://github.com/nikoladimitroff/Game-Engine-Architecture"
-        tagline = "Co-Teacher of a course about Game Engine Architecture in Sofia University. All slides are public. The theory is about how a game engine is structured with examples from Unreal Engine 4 codebase."
-
-        [[params.projects.list]]
         title = "Tempo Engine"
         url = "https://github.com/Alekssasho/TempoEngine/"
         tagline = "Game engine from scratch in very early stages. Runtime is C++, tooling and asset pipeline in Rust."
 
         [[params.projects.list]]
+        title = "Graphics Prototypes"
+        url = "https://github.com/Alekssasho/GraphicsPrototypes"
+        tagline = "Repo with 3D Graphics experiments and prototypes using Falcor. Masters Thesis work for a Real-Time  Diffuse Global Illumination algorithm based on Pica Pica's algorithm for GI."
+
+        [[params.projects.list]]
+        title = "Unity Custom Rendering Pipeline"
+        url = "https://github.com/Alekssasho/UnityCustomRenderingPipeline"
+        tagline = "Repo with 3D Graphics experiments and prototypes using Unity SRP."
+
+        [[params.projects.list]]
         title = "Warlocks"
         url = "https://gitlab.com/Alekssasho/warlocks"
         tagline = "UE4 multiplayer brawler arena game. Responsible for Gameplay abilities and animation/graphics support."
+
+        [[params.projects.list]]
+        title = "Co-Teacher/Author"
+        url = "https://github.com/nikoladimitroff/Game-Engine-Architecture"
+        tagline = "Co-Teacher of a course about Game Engine Architecture in Sofia University. All slides are public. The theory is about how a game engine is structured with examples from Unreal Engine 4 codebase."
 
     # Skills section
     [params.skills]
