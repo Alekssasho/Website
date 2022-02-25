@@ -32,7 +32,7 @@ disable404 = true
     # Profile section
     [params.profile]
         name = "Aleksandar Angelov"
-        tagline = "Software Developer / Team Lead"
+        tagline = "Principal Software Developer"
         avatar = "profile@150.jpg"
 
     # Contact section
@@ -120,8 +120,14 @@ disable404 = true
         title = "Experiences"
 
         [[params.jobs.list]]
+        position = "Principal Software Developer"
+        dates = "Feb 2022 - Present"
+        company = "Chaos, Sofia"
+        details = "Developing in house real time path tracer Chaos Vantage based on DXR."
+
+        [[params.jobs.list]]
         position = "Team Lead"
-        dates = "Oct 2020 - Present"
+        dates = "Oct 2020 - Jan 2022"
         company = "Chaos Group, Sofia"
         details = "Team Lead of V-Ray GPU team working on in-house GPU production render engine. Team management, product management."
 
