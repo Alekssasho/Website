@@ -32,7 +32,7 @@ disable404 = true
     # Profile section
     [params.profile]
         name = "Aleksandar Angelov"
-        tagline = "Principal Software Developer"
+        tagline = "Senior Engine Programmer"
         avatar = "profile@150.jpg"
 
     # Contact section
@@ -120,10 +120,16 @@ disable404 = true
         title = "Experiences"
 
         [[params.jobs.list]]
+        position = "Senior Engine Programmer"
+        dates = "Jul 2022 - Present"
+        company = "Ubisoft Sofia, Sofia"
+        details = "Working on in house engine for Ubisoft Games."
+
+        [[params.jobs.list]]
         position = "Principal Software Developer"
-        dates = "Feb 2022 - Present"
+        dates = "Feb 2022 - Jul 2022"
         company = "Chaos, Sofia"
-        details = "Developing in house real time path tracer Chaos Vantage based on DXR. Working on many lights solution for real time path tracer."
+        details = "Developing in house real time path tracer Chaos Vantage based on DXR.Many lights solution for real time path tracer. Procedural Clouds."
 
         [[params.jobs.list]]
         position = "Team Lead"
